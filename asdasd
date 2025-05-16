@@ -1,0 +1,8 @@
+console.log('Klikšķis uz laukuma '+ laukums)
+    
+    let atvertsJaunsLaukums = false;
+    klikski++
+    if (atvertieLaukumi.indexOf(laukums) == -1)
+    { atvertsJaunsLaukums = true;
+        console.log('atverts jauns laukums')
+    }
